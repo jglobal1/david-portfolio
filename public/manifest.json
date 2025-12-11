@@ -1,0 +1,28 @@
+{
+  "name": "Olarewaju David - Virtual Executive Assistant",
+  "short_name": "Olarewaju David",
+  "description": "Professional Virtual Executive Assistant specializing in LinkedIn engagement, calendar management, and administrative support. Helping coaches and business owners save 30+ hours per week.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#a855f7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/profile pic.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/profile pic.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "professional"],
+  "lang": "en",
+  "dir": "ltr"
+}
+
