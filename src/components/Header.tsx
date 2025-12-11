@@ -23,7 +23,7 @@ const Header = () => {
   };
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur-md bg-background/80 dark:bg-background/90 border-b border-border transition-all duration-300">
+    <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur-md bg-background/80 dark:bg-background/90 border-b border-border transition-all duration-300 overflow-x-hidden w-full">
       {/* Main Navigation Bar */}
       <div className="bg-background/95 dark:bg-background/95 border-b border-border">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
